@@ -26,8 +26,8 @@ Weather.getWeather().then(function(weatherJson) {
   const temp = weatherJson.tempCelsius;
   // const temp = 13;
 
-  const cat = temp > maxTemp ? Textures.get('cat_glasses') : Textures.get('cat');
-  const nyan = Materials.get('nyan');
+  const catTexture = temp > maxTemp ? Textures.get('cat_glasses') : Textures.get('cat');
+  const nyanMaterial = Materials.get('nyan');
 
-  nyan.diffuse = cat;
+  nyanMaterial.diffuse = catTexture;
 });
