@@ -1,7 +1,7 @@
-# sparkARWorkshop
+# [Spark AR](https://sparkar.facebook.com/ar-studio) Workshop
 
 ## Index
-- Installation
+- Installation [Spark AR Studio & Player](https://sparkar.facebook.com/ar-studio/learn/documentation/downloads/)
 - Interface
 - Project 1: Plane tracking
     1. Plane tracking
