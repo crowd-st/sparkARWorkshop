@@ -1,4 +1,4 @@
-# sparkARWorkshop
+# [Spark AR](https://sparkar.facebook.com/ar-studio) Workshop
 
 ## Index
 - Installation [Spark AR Studio & Player](https://sparkar.facebook.com/ar-studio/learn/documentation/downloads/)
